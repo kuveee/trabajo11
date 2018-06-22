@@ -45,17 +45,39 @@ Entregadas por el cliente.
 **Estructura HTML**
 - Sección 1: Nav
 - Sección 2: Header
-- Sección 3:Main
-- Article
-- Article
-- Sección 6Footer
+- Sección 3: Article(Dentro de Main)
+- Sección 3: Article(Dentro de Main)
+- Sección 3: Article(Dentro de Main)
+- Sección 6: Footer
 
 **Clases de CSS**
 Sección 1: 
 	- navbar
-	- navbar_logo
-	- navbar_menu
-	- navbar_icon
+	- navbar-brand
+	- navbar-nav
+Sección 2:
+	-header_barbershop
+
+Sección 3:
+	-blog
+	-blog__fecha
+	-blog__parrafo
+	-blog__boton
+	-blog__boton__secundario
+	-blog__boton__secundario__texto
+
+Sección 4:
+	-perfil-naomi
+	-perfil-naomi__user
+	-perfil-naomi__user__icon
+
+Sección 5:
+	-barra-flechas
+	-barra-flechas__texto
+
+Sección 6:
+	-Footer
+	
 
 **Estructura directorio**
 
